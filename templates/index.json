@@ -1,0 +1,329 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/zippertubing-hero01-2.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/zt-mobile-hero01-3.jpg",
+            "apply_overlay": false,
+            "content_position": "middleRight",
+            "subheading": "DIAGNOSIS & TROUBLESHOOTING",
+            "title": "What is EMF, EMI or RFI?",
+            "text": "People often use these terms interchangeably, but they are not the same.",
+            "button_1_text": "LEARN MORE",
+            "button_1_link": "shopify:\/\/pages\/about",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/zippertubing-hero02-2.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/zt-mobile-hero02.jpg",
+            "apply_overlay": false,
+            "content_position": "middleRight",
+            "subheading": "IN-HOUSE ENGINEERING",
+            "title": "Custom Component Protection",
+            "text": "Learn More About Our In-House Engineering",
+            "button_1_text": "LEARN MORE",
+            "button_1_link": "shopify:\/\/pages\/about",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide-0",
+        "slide-1"
+      ],
+      "settings": {
+        "show_fullscreen": true,
+        "show_arrow": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "text_color": "#1c1b1b",
+        "button_color": "#ffffff",
+        "button_background": "#0151a0"
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "emi-shielding",
+            "image": "shopify:\/\/shop_images\/Group_121.png",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "EMI Shielding",
+            "button_text": "View products",
+            "button_link": "",
+            "apply_overlay": false
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "cable-bundling",
+            "image": "shopify:\/\/shop_images\/Group_121_1.png",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "Cable Bundling",
+            "button_text": "View products",
+            "button_link": "",
+            "apply_overlay": false
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "heat-shrink",
+            "image": "shopify:\/\/shop_images\/Group_121_2.png",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "Heat Shrink",
+            "button_text": "View products",
+            "button_link": "",
+            "apply_overlay": false
+          }
+        },
+        "5aa25da5-5eff-4c7c-82d6-f9ecd9fd5287": {
+          "type": "collection",
+          "settings": {
+            "collection": "heat-shielding",
+            "image": "shopify:\/\/shop_images\/Group_121_2x_440e6924-ba34-434a-a178-75c9515ad80b.png",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "Heat Shielding",
+            "button_text": "View products",
+            "button_link": "",
+            "apply_overlay": false
+          }
+        }
+      },
+      "block_order": [
+        "collection-0",
+        "collection-1",
+        "collection-2",
+        "5aa25da5-5eff-4c7c-82d6-f9ecd9fd5287"
+      ],
+      "settings": {
+        "image_size": "normal",
+        "add_spacing": true,
+        "expand_collection": false,
+        "stack_on_mobile": true,
+        "text_color": "#434345",
+        "button_color": "#ffffff"
+      }
+    },
+    "1652285097fcf2acb3": {
+      "type": "custom-text-with-image",
+      "settings": {
+        "subheading": "",
+        "title": "ABOUT US",
+        "image": "shopify:\/\/shop_images\/Rectangle_46.png",
+        "image_position": "right",
+        "content": "<p>Zippertubing® is a manufacturer of EMI shielding, specialized heat shrink, cable bundling, heat shielding, and marine fairing solutions. From re-enterable wraparound to pull-through jacketing, and from snap button to continuous zipper closures, we have solutions to meet the needs of a wide range of industries and application requirements. Whether it is a cable bundling solution that will be installed on a robot or an EMI shielding solution that will be used on a spacecraft, Zippertubing® will create a solution for you. No longer will you have to sacrifice your expectations or requirements to the solution. Instead, the solution will be customized to you.<\/p>",
+        "link_text": "",
+        "link_url": "",
+        "background_color": "#f8f8f9"
+      }
+    },
+    "1652285423c17513e9": {
+      "type": "custom-text-with-image",
+      "settings": {
+        "subheading": "",
+        "title": "CUSTOM SOLUTIONS",
+        "image": "shopify:\/\/shop_images\/Rectangle_46_1.png",
+        "image_position": "left",
+        "content": "<p>Since 1957, Zippertubing® has been manufacturing custom solutions for a wide range of component challenges. From under the sea to outer space, we have prototyped, built, and shipped custom-engineered solutions for every type of industry and application. We specialize in creating custom products in-house from beginning to end, so you feel confident you will receive the perfect solution for your unique application.<br\/><br\/>Since we have been solving heat shielding, cable bundling, and EMI shielding challenges for decades, we understand not every application requires the same material, shielding, closure, size, or shape. Our wide range of manufacturing capabilities paired with our industry-leading Engineering team allows us to provide a heat shielding, cable bundling, EMI shielding, or specialized heat shrink solution catered to your needs.<\/p>",
+        "link_text": "",
+        "link_url": "",
+        "background_color": "#f8f8f9"
+      }
+    },
+    "1651773184aa5aa6bf": {
+      "type": "featured-collections",
+      "blocks": {
+        "1651773184b0923e62-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "emi-shielding",
+            "title": "",
+            "grid_items_count": 4,
+            "button_text": "View all products"
+          }
+        }
+      },
+      "block_order": [
+        "1651773184b0923e62-0"
+      ],
+      "settings": {
+        "title": "Featured collection",
+        "layout_mode": "grid",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false,
+        "grid_mobile_items_per_row": "2",
+        "grid_desktop_items_per_row": 4
+      }
+    },
+    "16517738151aee639e": {
+      "type": "featured-collections",
+      "blocks": {
+        "16517738158f237785-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "cable-bundling",
+            "title": "",
+            "grid_items_count": 4,
+            "button_text": "View all products"
+          }
+        }
+      },
+      "block_order": [
+        "16517738158f237785-0"
+      ],
+      "settings": {
+        "title": "Featured collection",
+        "layout_mode": "grid",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false,
+        "grid_mobile_items_per_row": "2",
+        "grid_desktop_items_per_row": 4
+      }
+    },
+    "1651774172bcf2019e": {
+      "type": "featured-video",
+      "settings": {
+        "section_size": "large",
+        "text_color": "#ffffff",
+        "subheading": "",
+        "title": "",
+        "image": "shopify:\/\/shop_images\/Rectangle_46.png",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=nen5y_4F7GE"
+      }
+    },
+    "16517741763a2ce210": {
+      "type": "featured-collections",
+      "blocks": {
+        "16517741766172f98f-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "heat-shrink",
+            "title": "",
+            "grid_items_count": 3,
+            "button_text": "View all products"
+          }
+        }
+      },
+      "block_order": [
+        "16517741766172f98f-0"
+      ],
+      "settings": {
+        "title": "Featured collection",
+        "layout_mode": "grid",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false,
+        "grid_mobile_items_per_row": "2",
+        "grid_desktop_items_per_row": 4
+      }
+    },
+    "1651774364ca67ee72": {
+      "type": "featured-collections",
+      "blocks": {
+        "1651774364074f3d9f-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "heat-shielding",
+            "title": "",
+            "grid_items_count": 4,
+            "button_text": "View all products"
+          }
+        }
+      },
+      "block_order": [
+        "1651774364074f3d9f-0"
+      ],
+      "settings": {
+        "title": "Featured collection",
+        "layout_mode": "grid",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false,
+        "grid_mobile_items_per_row": "2",
+        "grid_desktop_items_per_row": 4
+      }
+    },
+    "165228575016bad7a0": {
+      "type": "custom-text-with-image",
+      "settings": {
+        "subheading": "",
+        "title": "MILLER EDGE, INC.",
+        "image": "shopify:\/\/shop_images\/Rectangle_46_2.png",
+        "image_position": "right",
+        "content": "<p>I engaged Zippertubing on a development project after careful review of their online products and capabilities. Matt and his team met with me and provided hands-on review and technical details of existing products and their impressive library of material samples. They offer robust protective coverings made from natural and synthetic fabrics, metal and polymer foils and films and a huge assortment of engineered structures developed for specific functions such as puncture and abrasion resistance, EMI shielding and more. We talked about our product performance demands and cost considerations. We also reviewed conceptual design details about our vision of the finished product. Just a week later Matt called me back for another meeting where I was shown actual proof of concept assemblies as well as functional prototypes. It took a few more iterations to iron out details, but the Zippertubing engineering and sales experts were able to develop timely and cost effective protective covering solutions to our demanding performance requirements. 10 out of 10.<\/p>",
+        "link_text": "",
+        "link_url": "",
+        "background_color": "#f8f8f9"
+      }
+    },
+    "16517746342ee2c376": {
+      "type": "blog-posts",
+      "blocks": {
+        "165177463406ef43c8-0": {
+          "type": "blog",
+          "settings": {
+            "blog": "news"
+          }
+        }
+      },
+      "block_order": [
+        "165177463406ef43c8-0"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "RESOURCES",
+        "show_category": false,
+        "button_link": "",
+        "button_text": "View all articles"
+      }
+    },
+    "165116598051c2fddb": {
+      "type": "newsletter",
+      "settings": {
+        "section_size": "small",
+        "text_color": "#1c1b1b",
+        "button_color": "#ffffff",
+        "subheading": "",
+        "title": "Newsletter",
+        "content": "<p>Interested in New Products and Custom Solutions? Sign Up Today for Our Latest News<\/p>"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "collection-list",
+    "1652285097fcf2acb3",
+    "1652285423c17513e9",
+    "1651773184aa5aa6bf",
+    "16517738151aee639e",
+    "1651774172bcf2019e",
+    "16517741763a2ce210",
+    "1651774364ca67ee72",
+    "165228575016bad7a0",
+    "16517746342ee2c376",
+    "165116598051c2fddb"
+  ]
+}

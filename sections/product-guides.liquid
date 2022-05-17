@@ -1,0 +1,27 @@
+<div>
+  {% assign post_id = collection.metafields.my_fields.post_id.value | plus: 0 %}
+  {% for article in blogs.case-studies.articles  %}
+  {% if article.id == post_id %} 
+  <div class="collection-article">
+    <img src="{{ article.image.src | image_url }}" class="article-img" /> 
+    <h3>{{ article.title | link_to: article.url }}</h3>
+    <p>{{ article.excerpt_or_content | strip_html | truncate: 110 }}</p>
+    <a href="{{ article.url }}" class="btn">Read more</a>
+  </div>  
+  {% endif %}
+  {% endfor %}
+</div>
+
+
+{% schema %}
+  {
+    "name": "Section name",
+    "settings": []
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

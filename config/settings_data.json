@@ -1,0 +1,592 @@
+{
+  "current": {
+    "heading_color": "#434345",
+    "text_color": "#434345",
+    "text_light_color": "#5c5c5c",
+    "link_color": "#005cb8",
+    "background": "#ffffff",
+    "light_background": "#f8f8f9",
+    "product_on_sale_color": "#f94c43",
+    "button_background": "#005cb8",
+    "button_text_color": "#ffffff",
+    "header_background": "#d6d6d6",
+    "header_heading_color": "#434345",
+    "header_light_color": "#005cb8",
+    "footer_background": "#434345",
+    "footer_heading_color": "#ffffff",
+    "footer_text_color": "#ffffff",
+    "navigation_background": "#ffffff",
+    "navigation_text_color": "#5c5c5c",
+    "newsletter_popup_background": "#ffffff",
+    "newsletter_popup_text_color": "#1c1b1b",
+    "secondary_elements_background": "#f8f8f9",
+    "secondary_elements_text_color": "#ffffff",
+    "heading_font": "poppins_n4",
+    "heading_size": "small",
+    "uppercase_heading": true,
+    "text_font": "open_sans_n4",
+    "base_text_font_size": 16,
+    "show_page_transition": false,
+    "search_mode": "product,article",
+    "product_show_price_on_hover": false,
+    "product_show_secondary_image": false,
+    "product_info_alignment": "center",
+    "product_image_size": "natural",
+    "product_list_horizontal_spacing": "extra_small",
+    "product_list_vertical_spacing": "small",
+    "cart_type": "drawer",
+    "cart_enable_notes": true,
+    "cart_show_free_shipping_threshold": false,
+    "cart_free_shipping_threshold": "50",
+    "social_facebook": "https:\/\/www.facebook.com\/zippertubing\/",
+    "social_twitter": "",
+    "social_instagram": "https:\/\/www.instagram.com\/zippertubing\/",
+    "social_youtube": "https:\/\/www.youtube.com\/TheZippertubingCo",
+    "social_linkedin": "https:\/\/www.linkedin.com\/company\/zippertubing-company\/",
+    "social_bbb": "https:\/\/www.bbb.org\/us\/az\/chandler\/profile\/commercial-manufacturers\/the-zippertubing-company-1126-1000042751",
+    "favicon": "shopify:\/\/shop_images\/ZT-favicon-200.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/zt-logo-1000.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "small",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_color": "#efefef",
+    "checkout_accent_color": "#1c1b1b",
+    "checkout_button_color": "#005cb8",
+    "sections": {
+      "sidebar-menu": {
+        "type": "sidebar-menu",
+        "settings": {
+          "primary_menu": "main-menu",
+          "secondary_menu": "",
+          "show_social_media": true
+        }
+      },
+      "announcement": {
+        "type": "announcement",
+        "settings": {
+          "enable_bar": true,
+          "home_page_only": false,
+          "background": "#0151a0",
+          "text_color": "#ffffff",
+          "content": "American Made Since 1957",
+          "content2": "(855) 289-1874",
+          "content3": "ISO 9001 \/ IATF 16949",
+          "link": "",
+          "link2": "",
+          "link3": ""
+        }
+      },
+      "header": {
+        "type": "header",
+        "blocks": {
+          "d8e5866f-922b-4294-bcd4-198bb7be3444": {
+            "type": "mega_menu",
+            "settings": {
+              "navigation_mega_menu": "All Products",
+              "push_1_image": "shopify:\/\/shop_images\/Rectangle_109.jpg",
+              "push_1_heading": "",
+              "push_1_subheading": "",
+              "push_1_url": "",
+              "push_2_heading": "Example heading",
+              "push_2_subheading": "Example sub-heading",
+              "push_2_url": ""
+            }
+          },
+          "bcdc95b8-6bee-4e0f-9be6-76d64a9e7309": {
+            "type": "mega_menu",
+            "settings": {
+              "navigation_mega_menu": "EMI Shielding",
+              "push_1_image": "shopify:\/\/shop_images\/Zip-On-63_600x_4542d907-d75a-4c72-9aa9-922ada82b32a.webp",
+              "push_1_heading": "Zip-On® (63)",
+              "push_1_subheading": "",
+              "push_1_url": "shopify:\/\/products\/cable-bundling-wrap-around-track-zip-on-63",
+              "push_2_heading": "Example heading",
+              "push_2_subheading": "Example sub-heading",
+              "push_2_url": ""
+            }
+          },
+          "d7012f4d-a8ca-4876-ba3c-5438379b0dd1": {
+            "type": "mega_menu",
+            "settings": {
+              "navigation_mega_menu": "Cable Bundling",
+              "push_1_image": "shopify:\/\/shop_images\/Zip-On-63_600x_4542d907-d75a-4c72-9aa9-922ada82b32a.webp",
+              "push_1_heading": "Zip-On® (63)",
+              "push_1_subheading": "",
+              "push_1_url": "shopify:\/\/products\/cable-bundling-wrap-around-track-zip-on-63",
+              "push_2_heading": "Example heading",
+              "push_2_subheading": "Example sub-heading",
+              "push_2_url": ""
+            }
+          },
+          "547c3693-2580-4afc-a569-9bc358f3f97f": {
+            "type": "mega_menu",
+            "settings": {
+              "navigation_mega_menu": "Heat Shrink",
+              "push_1_image": "shopify:\/\/shop_images\/Zip-On-63_600x_4542d907-d75a-4c72-9aa9-922ada82b32a.webp",
+              "push_1_heading": "Zip-On® (63)",
+              "push_1_subheading": "",
+              "push_1_url": "shopify:\/\/products\/cable-bundling-wrap-around-track-zip-on-63",
+              "push_2_heading": "Example heading",
+              "push_2_subheading": "Example sub-heading",
+              "push_2_url": ""
+            }
+          },
+          "88e7ff6f-ff52-4395-900d-aa7582b7bb42": {
+            "type": "mega_menu",
+            "settings": {
+              "navigation_mega_menu": "Heat Shielding",
+              "push_1_image": "shopify:\/\/shop_images\/Zip-On-63_600x_4542d907-d75a-4c72-9aa9-922ada82b32a.webp",
+              "push_1_heading": "Zip-On® (63)",
+              "push_1_subheading": "",
+              "push_1_url": "shopify:\/\/products\/cable-bundling-wrap-around-track-zip-on-63",
+              "push_2_heading": "Example heading",
+              "push_2_subheading": "Example sub-heading",
+              "push_2_url": ""
+            }
+          },
+          "864e2517-440c-4f65-8dd7-6f0435803556": {
+            "type": "mega_menu",
+            "settings": {
+              "navigation_mega_menu": "Materials",
+              "push_1_image": "shopify:\/\/shop_images\/Zip-On-63_600x_4542d907-d75a-4c72-9aa9-922ada82b32a.webp",
+              "push_1_heading": "Zip-On® (63)",
+              "push_1_subheading": "",
+              "push_1_url": "shopify:\/\/products\/cable-bundling-wrap-around-track-zip-on-63",
+              "push_2_heading": "Example heading",
+              "push_2_subheading": "Example sub-heading",
+              "push_2_url": ""
+            }
+          }
+        },
+        "block_order": [
+          "d8e5866f-922b-4294-bcd4-198bb7be3444",
+          "bcdc95b8-6bee-4e0f-9be6-76d64a9e7309",
+          "d7012f4d-a8ca-4876-ba3c-5438379b0dd1",
+          "547c3693-2580-4afc-a569-9bc358f3f97f",
+          "88e7ff6f-ff52-4395-900d-aa7582b7bb42",
+          "864e2517-440c-4f65-8dd7-6f0435803556"
+        ],
+        "settings": {
+          "use_sticky_header": false,
+          "logo": "shopify:\/\/shop_images\/zt-logo-1000.png",
+          "logo_max_width": 200,
+          "mobile_logo_max_width": 165,
+          "show_country_selector": false,
+          "show_locale_selector": true,
+          "navigation_menu": "main-menu",
+          "navigation_style": "center",
+          "show_icons": true,
+          "enable_transparent_header": false,
+          "enable_transparent_header_collection": false,
+          "show_transparent_header_border": true,
+          "transparent_text_color": "#ffffff"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "text",
+            "settings": {
+              "title": "About Us",
+              "content": "<p>Zippertubing® is a manufacturer of EMI shielding, specialized heat shrink, cable bundling, heat shielding, and marine fairing solutions<\/p>",
+              "show_social_media": true,
+              "image": "shopify:\/\/shop_images\/kYlAHbm_-_Imgur_1_cdabccb8-bf84-4c6a-8c51-1bc6488cdc6f.jpg"
+            }
+          },
+          "footer-2": {
+            "type": "newsletter",
+            "settings": {
+              "title": "Newsletter",
+              "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
+            }
+          },
+          "2174c439-552f-42d2-b1a8-d4070e5bff44": {
+            "type": "links",
+            "settings": {
+              "menu": "shop"
+            }
+          },
+          "21ee6cde-8e24-4347-9016-0ed4db1835bd": {
+            "type": "links",
+            "settings": {
+              "menu": "help"
+            }
+          },
+          "footer-1": {
+            "type": "links",
+            "settings": {
+              "menu": "footer"
+            }
+          },
+          "ddde6c0a-7e08-408f-9569-1e8952767b43": {
+            "type": "links",
+            "settings": {
+              "menu": "legal"
+            }
+          }
+        },
+        "block_order": [
+          "footer-0",
+          "footer-2",
+          "2174c439-552f-42d2-b1a8-d4070e5bff44",
+          "21ee6cde-8e24-4347-9016-0ed4db1835bd",
+          "footer-1",
+          "ddde6c0a-7e08-408f-9569-1e8952767b43"
+        ],
+        "settings": {
+          "show_payment_methods": false,
+          "show_country_selector": false,
+          "show_locale_selector": false
+        }
+      },
+      "popup": {
+        "type": "popup",
+        "settings": {
+          "show_popup": false,
+          "show_only_on_index": true,
+          "show_only_for_visitors": true,
+          "show_only_once": true,
+          "title": "Popup",
+          "content": "<p>You can use this popup to display some useful information to your customers.<\/p>",
+          "show_newsletter": true,
+          "apparition_delay": 5
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
+  },
+  "presets": {
+    "Allure": {
+      "heading_color": "#1c1b1b",
+      "text_color": "#1c1b1b",
+      "text_light_color": "#6a6a6a",
+      "link_color": "#6a6a6a",
+      "background": "#efefef",
+      "light_background": "#ffffff",
+      "product_on_sale_color": "#f94c43",
+      "button_background": "#1c1b1b",
+      "button_text_color": "#ffffff",
+      "header_background": "#ffffff",
+      "header_heading_color": "#1c1b1b",
+      "header_light_color": "#6a6a6a",
+      "footer_background": "#ffffff",
+      "footer_heading_color": "#1c1b1b",
+      "footer_text_color": "#6a6a6a",
+      "newsletter_popup_background": "#1c1b1b",
+      "newsletter_popup_text_color": "#ffffff",
+      "secondary_elements_background": "#1c1b1b",
+      "secondary_elements_text_color": "#ffffff",
+      "navigation_background": "#1c1b1b",
+      "navigation_text_color": "#ffffff",
+      "heading_font": "montserrat_n5",
+      "heading_size": "small",
+      "uppercase_heading": true,
+      "text_font": "nunito_sans_n4",
+      "base_text_font_size": 14,
+      "show_page_transition": false,
+      "search_mode": "product,article",
+      "product_show_price_on_hover": false,
+      "product_show_secondary_image": false,
+      "product_info_alignment": "center",
+      "product_image_size": "natural",
+      "product_list_horizontal_spacing": "medium",
+      "product_list_vertical_spacing": "small",
+      "cart_type": "drawer",
+      "cart_enable_notes": true,
+      "cart_show_free_shipping_threshold": false,
+      "cart_free_shipping_threshold": "50",
+      "checkout_logo_position": "center",
+      "checkout_logo_size": "small",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_color": "#efefef",
+      "checkout_accent_color": "#1c1b1b",
+      "checkout_button_color": "#1c1b1b",
+      "sections": {
+        "sidebar-menu": {
+          "type": "sidebar-menu",
+          "settings": {
+            "primary_menu": "main-menu",
+            "show_social_media": true
+          }
+        },
+        "announcement": {
+          "type": "announcement",
+          "settings": {
+            "background": "#000000",
+            "text_color": "#ffffff",
+            "content": "Announce something here"
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "use_sticky_header": true,
+            "logo_max_width": 140,
+            "navigation_menu": "main-menu",
+            "navigation_style": "inline",
+            "enable_transparent_header": true,
+            "transparent_text_color": "#ffffff"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "text",
+              "settings": {
+                "title": "About the shop",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>",
+                "show_social_media": true
+              }
+            },
+            "footer-1": {
+              "type": "links",
+              "settings": {
+                "menu": "footer"
+              }
+            },
+            "footer-2": {
+              "type": "newsletter",
+              "settings": {
+                "title": "Newsletter",
+                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
+          "settings": {
+            "show_payment_methods": true
+          }
+        }
+      }
+    },
+    "Couture": {
+      "heading_color": "#5c5c5c",
+      "text_color": "#5c5c5c",
+      "text_light_color": "#939393",
+      "link_color": "#323232",
+      "background": "#ffffff",
+      "light_background": "#ffffff",
+      "product_on_sale_color": "#f94c43",
+      "button_background": "#5c5c5c",
+      "button_text_color": "#ffffff",
+      "header_background": "#ffffff",
+      "header_heading_color": "#5c5c5c",
+      "header_light_color": "#939393",
+      "footer_background": "#ffffff",
+      "footer_heading_color": "#5c5c5c",
+      "footer_text_color": "#939393",
+      "newsletter_popup_background": "#ffffff",
+      "newsletter_popup_text_color": "#1c1b1b",
+      "secondary_elements_background": "#5c5c5c",
+      "secondary_elements_text_color": "#ffffff",
+      "navigation_background": "#ffffff",
+      "navigation_text_color": "#5c5c5c",
+      "heading_font": "futura_n4",
+      "heading_size": "large",
+      "uppercase_heading": false,
+      "text_font": "century_gothic_n4",
+      "base_text_font_size": 15,
+      "show_page_transition": false,
+      "search_mode": "product,article",
+      "product_show_price_on_hover": true,
+      "product_show_secondary_image": false,
+      "product_info_alignment": "left",
+      "product_image_size": "natural",
+      "product_list_horizontal_spacing": "small",
+      "product_list_vertical_spacing": "small",
+      "cart_type": "drawer",
+      "cart_enable_notes": true,
+      "cart_show_free_shipping_threshold": false,
+      "cart_free_shipping_threshold": "50",
+      "checkout_logo_position": "center",
+      "checkout_logo_size": "small",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_accent_color": "#323232",
+      "checkout_button_color": "#5c5c5c",
+      "sections": {
+        "sidebar-menu": {
+          "type": "sidebar-menu",
+          "settings": {
+            "primary_menu": "main-menu",
+            "show_social_media": true
+          }
+        },
+        "announcement": {
+          "type": "announcement",
+          "settings": {
+            "background": "#f3f3f3",
+            "text_color": "#5c5c5c",
+            "content": "Announce something here"
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "use_sticky_header": true,
+            "logo_max_width": 140,
+            "navigation_menu": "main-menu",
+            "navigation_style": "center",
+            "enable_transparent_header": true,
+            "transparent_text_color": "#ffffff"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "text",
+              "settings": {
+                "title": "About the shop",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>",
+                "show_social_media": true
+              }
+            },
+            "footer-1": {
+              "type": "links",
+              "settings": {
+                "menu": "footer"
+              }
+            },
+            "footer-2": {
+              "type": "newsletter",
+              "settings": {
+                "title": "Newsletter",
+                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
+          "settings": {
+            "show_payment_methods": true
+          }
+        }
+      }
+    },
+    "Vogue": {
+      "heading_color": "#303030",
+      "text_color": "#303030",
+      "text_light_color": "#595959",
+      "link_color": "#000000",
+      "background": "#ffffff",
+      "light_background": "#ffffff",
+      "product_on_sale_color": "#f94c43",
+      "button_background": "#f5db8b",
+      "button_text_color": "#303030",
+      "header_background": "#ffffff",
+      "header_heading_color": "#303030",
+      "header_light_color": "#595959",
+      "footer_background": "#ffffff",
+      "footer_heading_color": "#303030",
+      "footer_text_color": "#595959",
+      "navigation_background": "#ffffff",
+      "navigation_text_color": "#303030",
+      "newsletter_popup_background": "#ffffff",
+      "newsletter_popup_text_color": "#303030",
+      "secondary_elements_background": "#fce7a8",
+      "secondary_elements_text_color": "#303030",
+      "heading_font": "din_neuzeit_grotesk_n3",
+      "heading_size": "small",
+      "uppercase_heading": true,
+      "text_font": "futura_n4",
+      "base_text_font_size": 14,
+      "show_page_transition": false,
+      "show_element_staggering": false,
+      "search_mode": "product,article",
+      "product_show_price_on_hover": true,
+      "product_show_secondary_image": false,
+      "product_info_alignment": "center",
+      "product_image_size": "natural",
+      "product_list_horizontal_spacing": "medium",
+      "product_list_vertical_spacing": "small",
+      "cart_type": "drawer",
+      "cart_enable_notes": true,
+      "cart_show_free_shipping_threshold": false,
+      "cart_free_shipping_threshold": "50",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_accent_color": "#a17c5e",
+      "checkout_button_color": "#454545",
+      "sections": {
+        "sidebar-menu": {
+          "type": "sidebar-menu",
+          "settings": {
+            "primary_menu": "main-menu",
+            "show_social_media": true
+          }
+        },
+        "announcement": {
+          "type": "announcement",
+          "settings": {
+            "background": "#f1e4d8",
+            "text_color": "#343434",
+            "content": "Announce something here"
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "use_sticky_header": true,
+            "logo_max_width": 140,
+            "navigation_menu": "main-menu",
+            "navigation_style": "inline",
+            "enable_transparent_header": true,
+            "transparent_text_color": "#ffffff"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "text",
+              "settings": {
+                "title": "About the shop",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>",
+                "show_social_media": true
+              }
+            },
+            "footer-1": {
+              "type": "links",
+              "settings": {
+                "menu": "footer"
+              }
+            },
+            "footer-2": {
+              "type": "newsletter",
+              "settings": {
+                "title": "Newsletter",
+                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
+          "settings": {
+            "show_payment_methods": true
+          }
+        }
+      }
+    }
+  }
+}

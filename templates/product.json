@@ -1,0 +1,103 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "product_meta": {
+          "type": "product_meta",
+          "settings": {
+            "show_vendor": false,
+            "show_sku": false,
+            "show_product_rating": false,
+            "show_taxes_included": false,
+            "show_short_desc": true,
+            "show_drawing_number": true
+          }
+        },
+        "variant_selector": {
+          "type": "variant_selector",
+          "settings": {
+            "selector_mode": "dropdown",
+            "show_color_swatch": false,
+            "show_color_carousel": false,
+            "size_chart": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_price_in_button": false,
+            "show_payment_button": true
+          }
+        }
+      },
+      "block_order": [
+        "product_meta",
+        "variant_selector",
+        "buy_buttons"
+      ],
+      "settings": {
+        "image_size": "large",
+        "stack_images": false,
+        "show_thumbnails": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "blocks": {
+        "3a387de9-cffd-4416-a0a1-c42743e4d7b7": {
+          "type": "product",
+          "settings": {
+            "product": "channelwrap-pfr"
+          }
+        },
+        "1323e991-fcb2-4e44-b4db-ac47ccc3e1e9": {
+          "type": "product",
+          "settings": {
+            "product": "connectorcover-shielded"
+          }
+        },
+        "d54f3a97-63d0-478c-b288-55fde8ed5141": {
+          "type": "product",
+          "settings": {
+            "product": "flexshield-hp"
+          }
+        },
+        "13affa77-b4ec-4366-b89a-3a2e6a6dc42a": {
+          "type": "product",
+          "settings": {
+            "product": "heatreflect-afa"
+          }
+        }
+      },
+      "block_order": [
+        "3a387de9-cffd-4416-a0a1-c42743e4d7b7",
+        "1323e991-fcb2-4e44-b4db-ac47ccc3e1e9",
+        "d54f3a97-63d0-478c-b288-55fde8ed5141",
+        "13affa77-b4ec-4366-b89a-3a2e6a6dc42a"
+      ],
+      "settings": {
+        "heading": "Product Recommendations",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "title": "Recently viewed",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-recommendations",
+    "recently-viewed-products"
+  ]
+}

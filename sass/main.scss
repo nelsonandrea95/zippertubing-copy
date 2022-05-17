@@ -1,0 +1,149 @@
+@import "product-related";
+
+//Announcement
+
+.AnnouncementBar__Wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  p {
+    padding: 0 60px;
+    border-right: 1px solid white;
+    font-size: 15px;
+    &:first-of-type {
+      padding-left: 0;
+    }
+    &:last-of-type {
+      padding-right: 0;
+      border-right: 0;
+    }
+  }
+  @media all and (max-width: 1139px) {
+    flex-direction: column;
+    p {
+      border: 0!important;
+      padding: 0 20px!important;
+    }
+  }
+}
+
+//Slideshow
+
+//Footer
+.Footer__Title {
+  text-transform: uppercase;
+  font-size: 17px!important;
+}
+
+.footer-img {
+  margin: 40px 0;
+}
+
+.Form__Input {
+  border-bottom: 2px solid white;
+}
+
+.Footer__Copyright {
+  text-align: center;
+  width: 100%;
+  a {
+    font-size: 16px!important;
+  }
+}
+
+//Newsletter
+
+.newsletter-section {
+  .ImageHero__Image {
+    background-color: #F8F8F9;
+  }
+  h2 {
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    font-size: 28px!important;
+  }
+  .Form__Input {
+    border-bottom: 2px solid #005CB8;
+  }
+  .Form__Submit::before {
+    background-color: #005CB8!important;
+  }
+  .SectionHeader__Description {
+    font-size: 32px;
+    line-height: 38px;
+    margin: 1.5em 0;
+    max-width: none;
+  }
+}
+
+//CollectionList
+
+.CollectionList {
+  .CollectionItem {
+    .SectionHeader {
+      h2 {
+        font-size: 22px;
+        line-height: 26px;
+      }
+      .Button {
+        border-color: #005CB8!important;
+        &:hover {
+          color: #005CB8 !important;
+        }
+      }
+      .Button:before {
+        background-color: #005CB8!important;
+      }
+    }
+  }
+}
+
+//FeatureText
+
+.FeatureText {
+  .FeatureText__ContentWrapper {
+    .FeatureText__Content {
+      max-width: 480px;
+      margin: 0 auto!important;
+      .SectionHeader {
+        h2 {
+          color: #005CB8;
+          font-size: 28px;
+          line-height: 140.4%;
+          text-align: center;
+          letter-spacing: 0.1em;
+          text-transform: uppercase;
+        }
+      }
+    }
+  }
+}
+
+.FeaturedCollection {
+  .SectionHeader__SubHeading {
+    display: none;
+  }
+  h2 {
+    font-size: 28px!important;
+    line-height: 140.4%;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+}
+
+//FAQ
+
+.Faq__ItemWrapper {
+  border-bottom: 1px solid #D6D6D6;
+  padding-top: 5px;
+  padding-bottom: 20px;
+  .Faq__Item {
+    .Faq__Icon {
+      top: 5px;
+    }
+    .Faq__Answer {
+      padding-bottom: 0;
+    }
+  }
+}

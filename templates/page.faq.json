@@ -1,0 +1,40 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-faq",
+      "blocks": {
+        "3f45bf84-6200-46fa-b440-f4e93c4fa6b9": {
+          "type": "question",
+          "settings": {
+            "title": "Do you have stock?",
+            "answer": "<p>Some of our products are partially assembled and can have a quick finish. Most are build specific to the customers demand.<\/p>"
+          }
+        },
+        "55ad6788-7e6e-4946-bea4-c563a8081142": {
+          "type": "question",
+          "settings": {
+            "title": "Can I get a quote on some of that Zippertubing®?",
+            "answer": "<p>The name of the company is Zippertubing® and the products can vary. Please <a href=\"\/pages\/contact\" title=\"Contact\">contact<\/a> our technical support or engineering to find what product suits your application best.<\/p>"
+          }
+        },
+        "2e31fb47-98ab-4ee1-8f5f-e6c95a003063": {
+          "type": "question",
+          "settings": {
+            "title": "How are the part numbers depicted?",
+            "answer": "<p>Example Part Number – ZT99-16-052-1.0-B-B<\/p><p><a href=\"https:\/\/zt-s3-documents.s3.us-west-1.amazonaws.com\/ZT-Part-Numbers.pdf\" target=\"_blank\">Download<\/a> a PDF of this example to keep for your future reference.<\/p><p><\/p><p>ZT – This is the start of all finished products<br\/>ZTXX | XX = the year that the product was first built.<br\/>ZT99-XX | XX = the closure\/category.<br\/>ZT99-16-XXX | XXX= the sequential order of a drawing.<br\/>ZT99-16-052-X.X | X.X = the diameter of the product in inches.<br\/>ZT99-16-052-1.0-X | X = the color of the jacketing material.<br\/>ZT99-16-052-1.0-B-X | X = the color of the closure.<br\/>ZT99-16-052-1.0-B-B-X600.0 | the length as described in inches, if applicable.<\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "3f45bf84-6200-46fa-b440-f4e93c4fa6b9",
+        "55ad6788-7e6e-4946-bea4-c563a8081142",
+        "2e31fb47-98ab-4ee1-8f5f-e6c95a003063"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
